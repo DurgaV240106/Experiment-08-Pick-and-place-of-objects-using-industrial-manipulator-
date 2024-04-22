@@ -122,6 +122,9 @@ and click on the connect icon
 
 ![IMG-20240422-WA0026](https://github.com/DurgaV240106/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/144870878/b7294dad-e303-408c-aa50-c40c97c99011)
 
+https://drive.google.com/file/d/11uTu264sZTEyN4-YWCKvTxxPx-t5C36O/view?usp=drive_link
+
+
 
 
 
@@ -130,7 +133,7 @@ and click on the connect icon
 
 
 ### Results: 
-
+Thus the program  pick and place a regular shape using two finger gripper on the conveyor belt has been successfully.
 
 
 
