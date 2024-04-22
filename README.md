@@ -1,4 +1,4 @@
-# Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-
+![IMG-20240422-WA0021](https://github.com/DurgaV240106/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/144870878/8362a93d-4b42-4f6d-ba9a-87974985359d)# Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-
 
 ### Aim :
       To pick and place a regular shape using two finger gripper on the conveyor belt 
@@ -99,6 +99,29 @@ and click on the connect icon
 
 
 ### output video and screen shots of pick and place 
+
+![IMG-20240422-WA0014](https://github.com/DurgaV240106/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/144870878/871af1e0-f2f5-4155-b269-1e466aa4660b)
+![IMG-20240422-WA0016](https://github.com/DurgaV240106/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/144870878/c01c06e5-30a4-4160-b854-be59fdf41eb7)
+![IMG-20240422-WA0017](https://github.com/DurgaV240106/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/144870878/7381404f-c1e8-4457-aee3-2b4481b5c2f7)
+
+![IMG-20240422-WA0018](https://github.com/DurgaV240106/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/144870878/9b2dfb5f-b841-45d4-8255-ac08c4282da7)
+
+![IMG-20240422-WA0019](https://github.com/DurgaV240106/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/144870878/3d3596fd-6f1c-4da4-bdbe-27a5c9da222e)
+
+![IMG-20240422-WA0020](https://github.com/DurgaV240106/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/144870878/015dd25d-8c12-45f8-9954-5be3e4b54a65)
+
+![IMG-20240422-WA0021](https://github.com/DurgaV240106/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/144870878/4d8895eb-9c5f-46a7-999d-44bee67c17ea)
+
+![IMG-20240422-WA0022](https://github.com/DurgaV240106/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/144870878/21413fc0-791e-4d20-a71f-329ced0df58f)
+
+![IMG-20240422-WA0023](https://github.com/DurgaV240106/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/144870878/745f3e6b-b0e4-4da5-bcc4-1c2e7efa4044)
+
+![IMG-20240422-WA0024](https://github.com/DurgaV240106/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/144870878/a5a5dbfd-37ab-4dce-8d61-a8b7d723179d)
+
+![IMG-20240422-WA0025](https://github.com/DurgaV240106/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/144870878/c8ba8a5f-2b17-450f-8c24-2d45c524bb82)
+
+![IMG-20240422-WA0026](https://github.com/DurgaV240106/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/144870878/b7294dad-e303-408c-aa50-c40c97c99011)
+
 
 
 
