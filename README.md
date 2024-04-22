@@ -1,4 +1,4 @@
-![IMG-20240422-WA0021](https://github.com/DurgaV240106/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/144870878/8362a93d-4b42-4f6d-ba9a-87974985359d)# Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-
+# 08-Pick-and-place-of-objects-using-industrial-manipulator-
 
 ### Aim :
       To pick and place a regular shape using two finger gripper on the conveyor belt 
